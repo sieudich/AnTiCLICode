@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "bundle_version": 13,
+  "app_version_name": "4.1.1",
+  "apk_version_code": 20,
+  "published_at_ms": 1795772018801,
+  "publisher": "Kanami x Kanika - Code",
+  "release_notes": "Koda v4.1.1: Chạy độc lập không cần Termux, chống treo AI & tự gia hạn OAuth nền, 11 ngôn ngữ, banner OTA cố định tới khi nhấn ×, và gia cố bảo mật APK đóng nguồn.",
+  "apk_sha256": "CDE9C15BC78C39D5557FCD4C34B0101BAD2F5AA0187D7C5361A831884A236800",
+  "apk_url": "https://github.com/sieudich/koda-ai-mobile/releases/download/v4.1.1/antigravity-code-mobile.apk"
+}

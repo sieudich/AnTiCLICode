@@ -70,7 +70,7 @@ Có tùy chọn để AI tự trả lời **theo ngôn ngữ ứng dụng đang 
 ### Xác minh toàn vẹn tệp tải về
 | Tệp phát hành | Phiên bản | Kích thước | Mã kiểm tra SHA-256 |
 | :--- | :---: | :---: | :--- |
-| `antigravity-code-mobile.apk` | `v4.1.1 (Build 20)` | `9.29 MB` | `CDE9C15BC78C39D5557FCD4C34B0101BAD2F5AA0187D7C5361A831884A236800` |
+| `antigravity-code-mobile.apk` | `v4.1.1 (Build 21)` | `9.29 MB` | `1A0938FAC9745CDA1214F68B17B938B6678A7A265E1AD87BB61F383389A73398` |
 
 ---
 

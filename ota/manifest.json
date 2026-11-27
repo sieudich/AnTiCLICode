@@ -3,11 +3,11 @@
   "bundle_version": 14,
   "app_version_name": "4.2.0",
   "apk_version_code": 22,
-  "published_at_ms": 1795775205775,
+  "published_at_ms": 1795775682429,
   "publisher": "AnTiCLICode • Kanami x Kanika - Code",
   "release_notes": "AnTiCLICode v4.2.0 (Build 22): Đổi tên thương hiệu chính thức sang AnTiCLICode, phát hành đồng thời Android APK (độc lập không cần Termux) & iPhone/iPad IPA (hỗ trợ từ iOS 12.0+ / iPhone 6), 11 ngôn ngữ & tự động đổi tài khoản thông minh không ngắt quãng.",
   "apk_sha256": "F55CF35E5D3548C1CDEB2BCE8098FCFB894E25D59F4491B280CEB6B5EA95B435",
-  "apk_url": "https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk",
+  "apk_url": "https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk",
   "ipa_sha256": "B7775C85AAC8AE15372F31E0C0379759EF71AC08E7ED97D5840A7E74031BA9B1",
   "ipa_url": "https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa"
 }

@@ -9,7 +9,7 @@
 ### **Cài đặt 1 chạm cho cả Android & iPhone (từ iPhone 6 iOS 12+) • Tự động đổi tài khoản thông minh 24/7 • Không cần Termux**
 
 <p>
-  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk">
+  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk">
     <img src="https://img.shields.io/badge/Tải_Android_APK-v4.2.0_(9.29_MB)-D64572?style=for-the-badge&logo=android&logoColor=white" alt="Tải AnTiCLICode Android APK" />
   </a>
   <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa">
@@ -49,7 +49,7 @@ Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm r
 
 | Nền tảng | Tệp cài đặt chính thức | Thiết bị hỗ trợ | Kích thước | Tải trực tiếp |
 | :--- | :--- | :--- | :---: | :---: |
-| **🤖 Android** | `antigravity-code-mobile.apk` | Android 7.0+ (ARM64) — *Độc lập, không cần Termux* | `9.29 MB` | **[⬇️ Tải APK ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk)** |
+| **🤖 Android** | `AnTiCLICode.apk` | Android 7.0+ (ARM64) — *Độc lập, không cần Termux* | `9.29 MB` | **[⬇️ Tải APK ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk)** |
 | **🍎 iPhone / iPad** | `AnTiCLICode-iOS12+.ipa` | iOS 12.0 → iOS 18+ *(iPhone 5s, iPhone 6 → iPhone 16 & iPad)* | `16.98 MB` | **[⬇️ Tải IPA ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** |
 
 > 💡 **Ghi chú dành cho người dùng iPhone / iPad**: Vì Apple giới hạn chạy tiến trình CLI ngầm trong sandbox iOS, ứng dụng **AnTiCLICode iOS** kết nối siêu tốc qua Wi-Fi LAN (hoặc Tailscale/Tunnel) tới cầu nối của **AnTiCLICode Android** (bật 1 công tắc *Chia sẻ LAN* trong Cài đặt) hoặc máy tính/VPS của bạn.
@@ -90,7 +90,7 @@ Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm r
 ## 🛠️ Hướng dẫn cài đặt siêu tốc
 
 ### 🤖 Cài đặt cho Android (3 bước — 1 phút xong ngay)
-1. **Tải tệp APK chính thức**: 👉 **[antigravity-code-mobile.apk (v4.2.0 — 9.29 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk)**
+1. **Tải tệp APK chính thức**: 👉 **[AnTiCLICode.apk (v4.2.0 — 9.29 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk)**
 2. Mở tệp vừa tải → cho phép **Cài đặt từ nguồn này** (nếu máy hỏi) → bấm **Cài đặt**.
 3. Mở **AnTiCLICode** → chọn **Tải lõi AI độc lập ngay** (chỉ 1 lần đầu) → đăng nhập tài khoản Google tại tab **Tài khoản** và bắt đầu sử dụng!
 
@@ -121,7 +121,7 @@ Tương thích hoàn hảo từ **iPhone 6 (iOS 12.5.7)** đến **iPhone 16 (iO
 
 | Tệp phát hành | Nền tảng | Phiên bản | Kích thước | Mã kiểm tra SHA-256 |
 | :--- | :---: | :---: | :---: | :--- |
-| [`antigravity-code-mobile.apk`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk) | Android 7.0+ (ARM64) | `v4.2.0 (Build 22)` | `9.29 MB` | `F55CF35E5D3548C1CDEB2BCE8098FCFB894E25D59F4491B280CEB6B5EA95B435` |
+| [`AnTiCLICode.apk`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk) | Android 7.0+ (ARM64) | `v4.2.0 (Build 22)` | `9.29 MB` | `F55CF35E5D3548C1CDEB2BCE8098FCFB894E25D59F4491B280CEB6B5EA95B435` |
 | [`AnTiCLICode-iOS12+.ipa`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa) | iOS 12.0+ (ARM64) | `v4.2.0 (Build 22)` | `16.98 MB` | `B7775C85AAC8AE15372F31E0C0379759EF71AC08E7ED97D5840A7E74031BA9B1` |
 
 Tệp tổng hợp mã kiểm tra: [`SHA256SUMS.txt`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/SHA256SUMS.txt)

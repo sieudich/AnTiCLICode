@@ -1,0 +1,20 @@
+PROPRIETARY CLOSED-SOURCE BINARY LICENSE
+Copyright (c) 2026 Kanami x Kanika (sieudich). All Rights Reserved.
+
+1. PHẠM VI CẤP PHÉP (GRANT OF USE)
+   Kho lưu trữ này chỉ phân phối tệp cài đặt APK (antigravity-code-mobile.apk) dành cho người dùng cuối
+   tải về cài đặt và sử dụng cá nhân trên thiết bị Android của mình. Mã nguồn KHÔNG được công khai.
+
+2. NGHIÊM CẤM TUYỆT ĐỐI (STRICT RESTRICTIONS)
+   Bạn KHÔNG được phép:
+   - Sao chép, chỉnh sửa, đóng gói lại (repackage), ký lại chữ ký hoặc phân phối bản mod của tệp APK.
+   - Dịch ngược (decompile / reverse engineer), giải mã kho tài nguyên (encrypted vault), phân tích động
+     bằng Frida/Xposed/LSPosed/debugger hoặc trích xuất tài sản giao diện/mã nhị phân.
+   - Sử dụng AI, mô hình ngôn ngữ lớn (LLM) hoặc công cụ tự động để phân tích tệp APK nhằm sao chép,
+     tái tạo (clone) hoặc dựng lại kiến trúc và mã nguồn của ứng dụng.
+
+3. BẢO VỆ KỸ THUẬT
+   Tệp APK được bảo vệ bởi khóa chữ ký số SHA-256, mã hóa kho giao diện ChaCha20-Poly1305 trong lõi native,
+   và cơ chế kiểm tra toàn vẹn thời gian thực chống can thiệp / đóng gói lại.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. ALL RIGHTS RESERVED.

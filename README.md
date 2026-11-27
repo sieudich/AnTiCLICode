@@ -1,76 +1,130 @@
 <div align="center">
 
-# ✨ Koda — Trợ Lý AI Di Động Cho Người Mới & Tự Động Đổi Tài Khoản Thông Minh
+<img src="screenshots/00-hero-anticlicode.jpg" alt="AnTiCLICode — Android & iOS 12+ Smart Multi-Account AI" width="100%" />
 
-**Cài đặt 1 chạm bằng tệp APK • Chạy độc lập không cần Termux • Không bị ngắt quãng hạn mức • Hỗ trợ 11 Ngôn ngữ • Mượt 60fps**
+<br />
 
-[![Tải APK v4.1.1](https://img.shields.io/badge/Tải_ngay-APK_v4.1.1_(9.29_MB)-D64572?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sieudich/koda-ai-mobile/releases/download/v4.1.1/antigravity-code-mobile.apk)
-[![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B_(ARM64)-16A34A?style=for-the-badge&logo=android&logoColor=white)](#hướng-dẫn-tải--cài-đặt-nhanh-3-bước)
-[![11 Ngôn ngữ](https://img.shields.io/badge/Ngôn_ngữ-11_Ngôn_ngữ-2563EB?style=for-the-badge)](#tính-năng-chính-của-ứng-dụng)
-[![Closed Source](https://img.shields.io/badge/Bản_quyền-Đóng_nguồn_•_Chỉ_APK-1E1A18?style=for-the-badge)](#bản-quyền--bảo-vệ-thành-phẩm)
+# ⚡ AnTiCLICode — Trợ Lý AI & Lập Trình Di Động Không Ngắt Quãng
+
+### **Cài đặt 1 chạm cho cả Android & iPhone (từ iPhone 6 iOS 12+) • Tự động đổi tài khoản thông minh 24/7 • Không cần Termux**
+
+<p>
+  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk">
+    <img src="https://img.shields.io/badge/Tải_Android_APK-v4.2.0_(9.29_MB)-D64572?style=for-the-badge&logo=android&logoColor=white" alt="Tải AnTiCLICode Android APK" />
+  </a>
+  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa">
+    <img src="https://img.shields.io/badge/Tải_iPhone_IPA-iOS_12.0%2B_(16.98_MB)-111827?style=for-the-badge&logo=apple&logoColor=white" alt="Tải AnTiCLICode iPhone IPA" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tự_đổi_tài_khoản-Không_ngắt_quãng-16A34A?style=flat-square" alt="Auto Switch" />
+  <img src="https://img.shields.io/badge/Ngôn_ngữ-11_Ngôn_ngữ_Offline-2563EB?style=flat-square" alt="11 Languages" />
+  <img src="https://img.shields.io/badge/Hiệu_năng-Mượt_60fps-D97706?style=flat-square" alt="60fps" />
+  <img src="https://img.shields.io/badge/Bản_quyền-Đóng_nguồn_•_APK_%26_IPA-1E1A18?style=flat-square" alt="Closed Source" />
+</p>
+
+**[⬇️ Tải nhanh Android & iPhone](#-tải-ngay-phiên-bản-mới-nhất-v420)** • **[📸 Xem giao diện](#-trải-nghiệm-giao-diện-thực-tế)** • **[🚀 Tính năng nổi bật](#-tính-năng-khiến-anticlicode-khác-biệt)** • **[🍎 Hướng dẫn cài iPhone](#-cài-đặt-cho-iphone--ipad-ios-120--ios-18)**
 
 </div>
 
 ---
 
-## 🎯 Koda dành cho ai?
+## 🎯 Tại sao bạn nên cài ngay AnTiCLICode?
 
-**Koda** được xây dựng chuyên biệt để:
-- 🌱 **Giúp người mới tập sử dụng AI** dễ dàng trò chuyện, học tập, viết code và làm việc ngay trên điện thoại với giao diện tiếng Việt trực quan, tối giản chỉ **3 tab đáy** (`Trò chuyện` • `Tài khoản` • `Cài đặt`), không cần cài đặt dòng lệnh phức tạp.
-- 🔄 **Tự động chuyển đổi tài khoản thông minh không bị ngắt quãng**: Khi tài khoản hiện tại hết hạn mức Gemini hoặc Claude, Koda tự động chuyển liền mạch sang nhóm mô hình còn hạn mức hoặc sang tài khoản dự phòng tiếp theo mà **giữ nguyên hoàn toàn ngữ cảnh cuộc trò chuyện** — không bị dừng giữa chừng!
+Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm rà? Hay bạn đang trò chuyện/viết code hăng say thì bị chặn vì **hết hạn mức (quota)** giữa chừng?
+
+**AnTiCLICode** sinh ra để giải quyết triệt để cả hai vấn đề đó ngay trên chiếc điện thoại của bạn:
+
+| Điểm nổi bật | Trải nghiệm thực tế với **AnTiCLICode** |
+| :--- | :--- |
+| 🌱 **Thân thiện tuyệt đối cho người mới** | Giao diện tiếng Việt tinh gọn chỉ **3 tab đáy** (`Trò chuyện` • `Tài khoản` • `Cài đặt`). Mở lên là hỏi AI, học tập, dịch thuật, phân tích ảnh và viết code ngay — **không cần biết dòng lệnh**. |
+| 🔄 **Tự động đổi tài khoản không ngắt quãng** | Thêm nhiều tài khoản Google (**Ultra / Pro / Free**). Khi một tài khoản hoặc nhóm mô hình chạm trần, AnTiCLICode tự chuyển sang mô hình/tài khoản dự phòng trong tích tắc mà **giữ nguyên mạch trò chuyện**! |
+| 🤖 **Android chạy độc lập 100%** | Chỉ cần cài duy nhất tệp **`.apk`** — **KHÔNG cần cài Termux**. Bấm 1 chạm tải lõi AI độc lập là dùng ngay. |
+| 🍎 **Hỗ trợ cả iPhone / iPad từ iOS 12.0+** | Phát hành chính thức tệp **`AnTiCLICode-iOS12+.ipa`** chạy mượt từ **iPhone 6 (iOS 12.5.7)** đến **iPhone 16 Pro (iOS 18+)**, kèm chế độ chia sẻ LAN 1 chạm từ Android sang iPhone! |
 
 ---
 
-## 📸 Hình ảnh giao diện thực tế
+## 📥 Tải ngay phiên bản mới nhất (`v4.2.0 — Build 22`)
 
-| 💬 Trò chuyện & Banner OTA cố định | 🔄 Đa tài khoản & Tự đổi thông minh | 🌐 Cài đặt 11 Ngôn ngữ & Độc lập | ✨ Hiệu ứng mở app 3D bún xu vàng |
+| Nền tảng | Tệp cài đặt chính thức | Thiết bị hỗ trợ | Kích thước | Tải trực tiếp |
+| :--- | :--- | :--- | :---: | :---: |
+| **🤖 Android** | `antigravity-code-mobile.apk` | Android 7.0+ (ARM64) — *Độc lập, không cần Termux* | `9.29 MB` | **[⬇️ Tải APK ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk)** |
+| **🍎 iPhone / iPad** | `AnTiCLICode-iOS12+.ipa` | iOS 12.0 → iOS 18+ *(iPhone 5s, iPhone 6 → iPhone 16 & iPad)* | `16.98 MB` | **[⬇️ Tải IPA ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** |
+
+> 💡 **Ghi chú dành cho người dùng iPhone / iPad**: Vì Apple giới hạn chạy tiến trình CLI ngầm trong sandbox iOS, ứng dụng **AnTiCLICode iOS** kết nối siêu tốc qua Wi-Fi LAN (hoặc Tailscale/Tunnel) tới cầu nối của **AnTiCLICode Android** (bật 1 công tắc *Chia sẻ LAN* trong Cài đặt) hoặc máy tính/VPS của bạn.
+
+---
+
+## 📸 Trải nghiệm giao diện thực tế
+
+| 💬 Trò chuyện & Banner OTA cố định | 🔄 Đa tài khoản & Tự đổi thông minh | 🌐 11 Ngôn ngữ & Chạy độc lập | ✨ Intro 3D bún đồng xu vàng |
 | :---: | :---: | :---: | :---: |
-| ![Trò chuyện Koda](screenshots/01-chat-beginner.jpg) | ![Tài khoản thông minh](screenshots/02-smart-accounts.jpg) | ![Cài đặt 11 ngôn ngữ](screenshots/03-settings-11langs.jpg) | ![Intro 3D Koda](screenshots/04-intro-3d-coin.jpg) |
+| ![Trò chuyện AnTiCLICode](screenshots/01-chat-beginner.jpg) | ![Tài khoản thông minh](screenshots/02-smart-accounts.jpg) | ![Cài đặt 11 ngôn ngữ](screenshots/03-settings-11langs.jpg) | ![Intro 3D AnTiCLICode](screenshots/04-intro-3d-coin.jpg) |
 
 ---
 
-## 🚀 Tính năng chính của ứng dụng
+## 🚀 Tính năng khiến AnTiCLICode khác biệt
 
-### 1. 🔄 Tự động chuyển đổi đa tài khoản thông minh (Không ngắt quãng)
-- Liên kết nhiều tài khoản Google (**Ultra / Pro / Enterprise / Free**) ngay trong tab **Tài khoản**.
-- **Ưu tiên gói cao trước gói thấp**: Tự động ưu tiên Ultra/Pro trước Free; khi đổi giữa các tài khoản Pro/Ultra luôn **bảo toàn đúng mô hình Pro & mức suy luận** bạn yêu thích.
-- **Tự thích ứng thông minh cho tài khoản Free**: Chỉ hiển thị đúng các mô hình tài khoản Free hỗ trợ và tự chọn mô hình mạnh nhất theo thứ tự **Gemini → Claude → GPT**.
-- **Phân biệt chuẩn lỗi quá tải máy chủ (503) với hết hạn mức (429)**: Không đánh dấu sai tài khoản hết hạn mức khi máy chủ chỉ quá tải tạm thời, đồng thời chống vòng lặp chuyển qua lại.
-- **Chống treo AI khi chat lâu**: Chủ động làm mới xác thực OAuth ở nền trước khi hết hạn 1 giờ và tích hợp bộ canh chống treo (Anti-Stall Watchdog) tự nối lại tức thì nếu kết nối di động bị gián đoạn.
+### 1. 🔄 Động cơ xoay vòng đa tài khoản thông minh (Zero-Interruption)
+- **Tự ưu tiên gói mạnh nhất**: Luôn ưu tiên tài khoản **Ultra / Pro** trước **Free**; tự động bảo toàn đúng mô hình Pro và mức suy luận yêu thích khi luân chuyển giữa các tài khoản trả phí.
+- **Tự tối ưu cho tài khoản Free**: Tự lọc hiển thị chính xác các mô hình khả dụng và chọn mức suy luận mạnh nhất theo thứ tự **Gemini → Claude → GPT**.
+- **Nhận diện chuẩn lỗi máy chủ**: Phân biệt rõ lỗi quá tải tạm thời (**HTTP 503**) với hết hạn mức tài khoản (**HTTP 429**), chống đánh dấu nhầm và chống lặp qua lại vô ích.
+- **Bền bỉ khi chat tác vụ dài**: Chủ động gia hạn phiên OAuth dưới nền trước khi hết hạn 1 giờ + bộ canh chống treo (**Anti-Stall Watchdog**) tự nối lại ngay nếu đổi Wi-Fi / 4G.
 
-### 2. ⚡ Chạy độc lập 100% — Không cần Termux
-- Cài trực tiếp tệp **`antigravity-code-mobile.apk`** là chạy được ngay trên Android (ARM64, Android 7.0+).
-- Nút **1 chạm tải lõi AI độc lập** ngay trong ứng dụng — không cần cài hay mở Termux.
-- Tích hợp **Chia sẻ LAN cho iPhone / iPad (iOS 12+)**: Bật 1 công tắc trong Cài đặt là máy iPhone/iPad cùng Wi-Fi có thể kết nối mượt qua Safari (hoặc app iOS) với đường dẫn 1 chạm tự nhập Token.
+### 2. ⚡ Chạy độc lập trên Android + Đồng bộ 1 chạm sang iPhone / iPad
+- **Android**: Đóng gói gọn nhẹ lõi native **Rust ARM64**, tải lõi AI 1 chạm trong app — không phụ thuộc Termux.
+- **iPhone / iPad (iOS 12.0+)**: Viết thuần **UIKit + WKWebView + WebSocket RFC 6455 trên TCP Stream** giúp chạy mượt mà ngay cả trên **iPhone 6 chạy iOS 12.5.7** cũng như các dòng iPhone mới nhất.
 
-### 3. 🌐 Hỗ trợ 11 Ngôn ngữ giao diện & Ngôn ngữ AI trả lời
-Chuyển đổi tức thì (**offline < 5ms**) ngay trong tab **Cài đặt**:
-> 🇻🇳 Tiếng Việt • 🇺🇸 English • 🇯🇵 日本語 • 🇰🇷 한국어 • 🇨🇳 简体中文 • 🇹🇼 繁體中文 • 🇫🇷 Français • 🇩🇪 Deutsch • 🇪🇸 Español • 🇷🇺 Русский • 🇹🇭 ไทย
+### 3. 🌐 11 Ngôn ngữ giao diện & Đa phong cách cá nhân hóa
+- Chuyển ngôn ngữ tức thì (**offline < 5ms**):
+  > 🇻🇳 Tiếng Việt • 🇺🇸 English • 🇯🇵 日本語 • 🇰🇷 한국어 • 🇨🇳 简体中文 • 🇹🇼 繁體中文 • 🇫🇷 Français • 🇩🇪 Deutsch • 🇪🇸 Español • 🇷🇺 Русский • 🇹🇭 ไทย
+- **4 chủ đề thiết kế thủ công mượt 60fps**: `Washi` (giấy kem dịu mắt), `Sakura` (hoa anh đào), `Sumi` (mực tối), `OLED` (đen sâu tiết kiệm pin) — kèm hỗ trợ hình nền ảnh/video động, khung avatar động và tùy chỉnh tên hiển thị.
 
-Có tùy chọn để AI tự trả lời **theo ngôn ngữ ứng dụng đang chọn** hoặc **tự động theo ngôn ngữ bạn nhắn**.
-
-### 4. 🔔 Cập nhật OTA thông minh (Hiển thị ngay & không tự mất)
-- Khi có phiên bản mới (OTA giao diện hoặc bản APK mới), banner thông báo cập nhật sẽ **hiển thị ngay lập tức trên đầu màn hình**.
-- **Luôn giữ cố định không tự biến mất** dù bạn chuyển tab hay mở lại ứng dụng — chỉ đóng khi bạn chủ động bấm nút **`×`** hoặc hoàn tất cập nhật.
-
-### 5. 🎨 Giao diện chuẩn 60fps & Cá nhân hóa sâu
-- **4 chủ đề phong cách Nhật**: Giấy Nhật (*Washi*), Anh Đào (*Sakura*), Mực Đêm (*Sumi*), Đen OLED (*Obsidian*) + tùy chỉnh màu nhấn, nền ảnh/video 60fps và cỡ chữ.
-- **Hiệu ứng mở đầu 3D bún đồng xu vàng** mang avatar/GIF riêng & khung avatar động.
-- **Công cụ làm việc mạnh mẽ**: Hỗ trợ đính kèm nhiều ảnh/tệp, trình xem & cắt ảnh tích hợp, chế độ lập kế hoạch (`/plan`), tăng tốc tư duy (`/boost`), trình duyệt AI (`/browser`), kỹ năng (`Skills`) và lưu lịch sử trò chuyện theo thư mục làm việc.
+### 4. 🔔 Thông báo cập nhật OTA cố định & Trợ thủ lập trình toàn năng
+- **Banner OTA không bao giờ bỏ lỡ**: Ngay khi có bản cập nhật mới hơn, thanh thông báo hiển thị trực tiếp ở màn hình chính và **không tự biến mất** cho tới khi bạn bấm dấu `×`.
+- **Bộ công cụ làm việc thực chiến**: Đính kèm nhiều ảnh/tệp, trình xem & cắt ảnh tích hợp, chế độ lập kế hoạch (`/plan`), tăng tốc tư duy sâu (`/boost`), trình duyệt AI trực tiếp (`/browser`), hệ thống kỹ năng (`Skills`) và quản lý lịch sử chat theo thư mục dự án.
 
 ---
 
-## 📥 Hướng dẫn tải & cài đặt nhanh (3 bước)
+## 🛠️ Hướng dẫn cài đặt siêu tốc
 
-1. **Tải tệp APK chính thức**:
-   👉 **[Tải antigravity-code-mobile.apk (v4.1.1 — 9.29 MB)](https://github.com/sieudich/koda-ai-mobile/releases/download/v4.1.1/antigravity-code-mobile.apk)**
-2. Mở tệp APK vừa tải trên điện thoại Android → cho phép **Cài đặt từ nguồn này** (nếu máy hỏi) → bấm **Cài đặt**.
-3. Mở **Koda** → chọn **Tải lõi AI độc lập ngay** (chỉ 1 lần đầu) → đăng nhập tài khoản Google trong tab **Tài khoản** và bắt đầu trò chuyện!
+### 🤖 Cài đặt cho Android (3 bước — 1 phút xong ngay)
+1. **Tải tệp APK chính thức**: 👉 **[antigravity-code-mobile.apk (v4.2.0 — 9.29 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk)**
+2. Mở tệp vừa tải → cho phép **Cài đặt từ nguồn này** (nếu máy hỏi) → bấm **Cài đặt**.
+3. Mở **AnTiCLICode** → chọn **Tải lõi AI độc lập ngay** (chỉ 1 lần đầu) → đăng nhập tài khoản Google tại tab **Tài khoản** và bắt đầu sử dụng!
 
-### Xác minh toàn vẹn tệp tải về
-| Tệp phát hành | Phiên bản | Kích thước | Mã kiểm tra SHA-256 |
-| :--- | :---: | :---: | :--- |
-| `antigravity-code-mobile.apk` | `v4.1.1 (Build 21)` | `9.29 MB` | `1A0938FAC9745CDA1214F68B17B938B6678A7A265E1AD87BB61F383389A73398` |
+---
+
+### 🍎 Cài đặt cho iPhone / iPad (iOS 12.0 → iOS 18+)
+
+#### ✅ Cách 1: Cài app Native `AnTiCLICode-iOS12+.ipa` KHÔNG cần Jailbreak *(Khuyên dùng)*
+Tương thích hoàn hảo từ **iPhone 6 (iOS 12.5.7)** đến **iPhone 16 (iOS 18+)** qua **Sideloadly**, **AltStore**, **ESign** hoặc **Scarlet**:
+
+1. Tải tệp **[AnTiCLICode-iOS12+.ipa (16.98 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** về máy tính (Windows / Mac) hoặc trực tiếp lên iPhone (nếu dùng ESign / Scarlet).
+2. Trên máy tính, mở **[Sideloadly](https://sideloadly.io/)** (miễn phí, hỗ trợ chuẩn cả iOS 12.5.7) → cắm cáp nối iPhone → kéo thả tệp `AnTiCLICode-iOS12+.ipa` vào → nhập Apple ID bất kỳ → bấm **Start**.
+3. Trên iPhone vào **Cài đặt → Cài đặt chung → Quản lý thiết bị / VPN & Thiết bị** → chọn email Apple ID vừa ký → bấm **Tin cậy (Trust)**.
+4. Mở **AnTiCLICode** ngoài màn hình chính → bật **Chia sẻ LAN** trên máy Android (hoặc chạy cầu nối trên PC) → nhập **IP LAN** (ví dụ `192.168.1.10`), cổng `8787` và **Token** là kết nối mượt ngay!
+
+#### 🔓 Cách 2: Máy đã Jailbreak hoặc có TrollStore *(Cài vĩnh viễn — không hết hạn 7 ngày)*
+1. Tải trực tiếp **[AnTiCLICode-iOS12+.ipa](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** bằng Safari trên iPhone.
+2. Mở tệp bằng **TrollStore** (iOS 14.0–17.0) hoặc **Filza File Manager** (đã cài **AppSync Unified** trên iOS 12–16) → bấm **Cài đặt (Install)** là dùng vĩnh viễn!
+
+#### ⚡ Cách 3: Dùng ngay sau 30 giây KHÔNG cần máy tính (Safari PWA)
+1. Bật **Chia sẻ LAN cho iPhone / iPad** trong tab *Cài đặt* của **AnTiCLICode** trên Android.
+2. Mở đường dẫn hiển thị (ví dụ `http://192.168.1.10:8787/`) bằng **Safari** trên iPhone.
+3. Chạm nút **Chia sẻ (↑)** → chọn **Thêm vào MH chính (Add to Home Screen)** → mở ứng dụng **AnTiCLICode** toàn màn hình như app gốc!
+
+---
+
+## 🔐 Xác minh toàn vẹn tệp tải về (SHA-256)
+
+| Tệp phát hành | Nền tảng | Phiên bản | Kích thước | Mã kiểm tra SHA-256 |
+| :--- | :---: | :---: | :---: | :--- |
+| [`antigravity-code-mobile.apk`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/antigravity-code-mobile.apk) | Android 7.0+ (ARM64) | `v4.2.0 (Build 22)` | `9.29 MB` | `F55CF35E5D3548C1CDEB2BCE8098FCFB894E25D59F4491B280CEB6B5EA95B435` |
+| [`AnTiCLICode-iOS12+.ipa`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa) | iOS 12.0+ (ARM64) | `v4.2.0 (Build 22)` | `16.98 MB` | `B7775C85AAC8AE15372F31E0C0379759EF71AC08E7ED97D5840A7E74031BA9B1` |
+
+Tệp tổng hợp mã kiểm tra: [`SHA256SUMS.txt`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/SHA256SUMS.txt)
 
 ---
 
@@ -78,13 +132,13 @@ Có tùy chọn để AI tự trả lời **theo ngôn ngữ ứng dụng đang 
 
 > **⚠️ LƯU Ý BẢN QUYỀN (PROPRIETARY CLOSED-SOURCE — ALL RIGHTS RESERVED)**
 >
-> Kho lưu trữ này **chỉ phát hành tệp APK cài đặt cho người dùng cuối** — **KHÔNG công khai mã nguồn**.
+> Kho lưu trữ này **chỉ phát hành tệp cài đặt chính thức (`.apk` cho Android & `.ipa` cho iPhone/iPad)** dành cho người dùng cuối — **KHÔNG công khai mã nguồn**.
 >
-> - Tệp APK được bảo vệ bởi **kho mã hóa ChaCha20-Poly1305 gắn chặt với chữ ký số SHA-256 gốc**, lõi kiểm tra toàn vẹn thời gian thực chống sửa đổi / đóng gói lại / gắn debugger / hook (Frida, Xposed, LSPosed, MT Manager...).
-> - **Nghiêm cấm tuyệt đối** hành vi sao chép, phân phối bản chỉnh sửa, dịch ngược APK, bóc tách tài nguyên hoặc sử dụng AI / công cụ tự động để khám phá, sao chép, tái tạo lại ứng dụng này. Xem chi tiết tại [LICENSE](LICENSE).
+> - Tệp Android APK được bảo vệ bởi **kho mã hóa ChaCha20-Poly1305 gắn chặt với chữ ký số SHA-256 gốc**, lõi kiểm tra toàn vẹn thời gian thực chống sửa đổi / đóng gói lại / gắn debugger / hook (Frida, Xposed, LSPosed, MT Manager...).
+> - **Nghiêm cấm tuyệt đối** hành vi sao chép, phân phối bản chỉnh sửa, dịch ngược APK/IPA, bóc tách tài nguyên hoặc sử dụng AI / công cụ tự động để sao chép, tái tạo lại **AnTiCLICode**. Xem chi tiết tại [LICENSE](LICENSE).
 
 ---
 
 <div align="center">
-  <sub>Phát triển bởi <b>Kanami × Kanika</b> • Bảo lưu mọi quyền (All Rights Reserved)</sub>
+  <sub>Phát triển bởi <b>AnTiCLICode • Kanami × Kanika</b> • Bảo lưu mọi quyền (All Rights Reserved)</sub>
 </div>

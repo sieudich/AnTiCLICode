@@ -9,10 +9,10 @@
 ### **Cài đặt 1 chạm cho cả Android & iPhone (từ iPhone 6 iOS 12+) • Tự động đổi tài khoản thông minh 24/7 • Không cần Termux**
 
 <p>
-  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk">
-    <img src="https://img.shields.io/badge/Tải_Android_APK-v4.2.0_(9.29_MB)-D64572?style=for-the-badge&logo=android&logoColor=white" alt="Tải AnTiCLICode Android APK" />
+  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode.apk">
+    <img src="https://img.shields.io/badge/Tải_Android_APK-v4.2.1_(9.31_MB)-D64572?style=for-the-badge&logo=android&logoColor=white" alt="Tải AnTiCLICode Android APK" />
   </a>
-  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa">
+  <a href="https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode-iOS12+.ipa">
     <img src="https://img.shields.io/badge/Tải_iPhone_IPA-iOS_12.0%2B_(16.98_MB)-111827?style=for-the-badge&logo=apple&logoColor=white" alt="Tải AnTiCLICode iPhone IPA" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Bản_quyền-Đóng_nguồn_•_APK_%26_IPA-1E1A18?style=flat-square" alt="Closed Source" />
 </p>
 
-**[⬇️ Tải nhanh Android & iPhone](#-tải-ngay-phiên-bản-mới-nhất-v420)** • **[📸 Xem giao diện](#-trải-nghiệm-giao-diện-thực-tế)** • **[🚀 Tính năng nổi bật](#-tính-năng-khiến-anticlicode-khác-biệt)** • **[🍎 Hướng dẫn cài iPhone](#-cài-đặt-cho-iphone--ipad-ios-120--ios-18)**
+**[⬇️ Tải nhanh Android & iPhone](https://github.com/sieudich/AnTiCLICode/releases/tag/v4.2.1)** • **[📸 Xem giao diện](#-trải-nghiệm-giao-diện-thực-tế)** • **[🚀 Tính năng nổi bật](#-tính-năng-khiến-anticlicode-khác-biệt)** • **[🍎 Hướng dẫn cài iPhone](#-cài-đặt-cho-iphone--ipad-ios-120--ios-18)**
 
 </div>
 
@@ -45,12 +45,12 @@ Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm r
 
 ---
 
-## 📥 Tải ngay phiên bản mới nhất (`v4.2.0 — Build 22`)
+## 📥 Tải ngay phiên bản mới nhất (`v4.2.1 — Build 23`)
 
 | Nền tảng | Tệp cài đặt chính thức | Thiết bị hỗ trợ | Kích thước | Tải trực tiếp |
 | :--- | :--- | :--- | :---: | :---: |
-| **🤖 Android** | `AnTiCLICode.apk` | Android 7.0+ (ARM64) — *Độc lập, không cần Termux* | `9.29 MB` | **[⬇️ Tải APK ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk)** |
-| **🍎 iPhone / iPad** | `AnTiCLICode-iOS12+.ipa` | iOS 12.0 → iOS 18+ *(iPhone 5s, iPhone 6 → iPhone 16 & iPad)* | `16.98 MB` | **[⬇️ Tải IPA ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** |
+| **🤖 Android** | `AnTiCLICode.apk` | Android 7.0+ (ARM64) — *Độc lập, không cần Termux* | `9.31 MB` | **[⬇️ Tải APK ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode.apk)** |
+| **🍎 iPhone / iPad** | `AnTiCLICode-iOS12+.ipa` | iOS 12.0 → iOS 18+ *(iPhone 5s, iPhone 6 → iPhone 16 & iPad)* | `16.98 MB` | **[⬇️ Tải IPA ngay](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode-iOS12+.ipa)** |
 
 > 💡 **Ghi chú dành cho người dùng iPhone / iPad**: Vì Apple giới hạn chạy tiến trình CLI ngầm trong sandbox iOS, ứng dụng **AnTiCLICode iOS** kết nối siêu tốc qua Wi-Fi LAN (hoặc Tailscale/Tunnel) tới cầu nối của **AnTiCLICode Android** (bật 1 công tắc *Chia sẻ LAN* trong Cài đặt) hoặc máy tính/VPS của bạn.
 
@@ -90,7 +90,7 @@ Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm r
 ## 🛠️ Hướng dẫn cài đặt siêu tốc
 
 ### 🤖 Cài đặt cho Android (3 bước — 1 phút xong ngay)
-1. **Tải tệp APK chính thức**: 👉 **[AnTiCLICode.apk (v4.2.0 — 9.29 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk)**
+1. **Tải tệp APK chính thức**: 👉 **[AnTiCLICode.apk (v4.2.1 — 9.31 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode.apk)**
 2. Mở tệp vừa tải → cho phép **Cài đặt từ nguồn này** (nếu máy hỏi) → bấm **Cài đặt**.
 3. Mở **AnTiCLICode** → chọn **Tải lõi AI độc lập ngay** (chỉ 1 lần đầu) → đăng nhập tài khoản Google tại tab **Tài khoản** và bắt đầu sử dụng!
 
@@ -101,13 +101,13 @@ Bạn mới bắt đầu khám phá AI nhưng ngại cài dòng lệnh rườm r
 #### ✅ Cách 1: Cài app Native `AnTiCLICode-iOS12+.ipa` KHÔNG cần Jailbreak *(Khuyên dùng)*
 Tương thích hoàn hảo từ **iPhone 6 (iOS 12.5.7)** đến **iPhone 16 (iOS 18+)** qua **Sideloadly**, **AltStore**, **ESign** hoặc **Scarlet**:
 
-1. Tải tệp **[AnTiCLICode-iOS12+.ipa (16.98 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** về máy tính (Windows / Mac) hoặc trực tiếp lên iPhone (nếu dùng ESign / Scarlet).
+1. Tải tệp **[AnTiCLICode-iOS12+.ipa (16.98 MB)](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode-iOS12+.ipa)** về máy tính (Windows / Mac) hoặc trực tiếp lên iPhone (nếu dùng ESign / Scarlet).
 2. Trên máy tính, mở **[Sideloadly](https://sideloadly.io/)** (miễn phí, hỗ trợ chuẩn cả iOS 12.5.7) → cắm cáp nối iPhone → kéo thả tệp `AnTiCLICode-iOS12+.ipa` vào → nhập Apple ID bất kỳ → bấm **Start**.
 3. Trên iPhone vào **Cài đặt → Cài đặt chung → Quản lý thiết bị / VPN & Thiết bị** → chọn email Apple ID vừa ký → bấm **Tin cậy (Trust)**.
 4. Mở **AnTiCLICode** ngoài màn hình chính → bật **Chia sẻ LAN** trên máy Android (hoặc chạy cầu nối trên PC) → nhập **IP LAN** (ví dụ `192.168.1.10`), cổng `8787` và **Token** là kết nối mượt ngay!
 
 #### 🔓 Cách 2: Máy đã Jailbreak hoặc có TrollStore *(Cài vĩnh viễn — không hết hạn 7 ngày)*
-1. Tải trực tiếp **[AnTiCLICode-iOS12+.ipa](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa)** bằng Safari trên iPhone.
+1. Tải trực tiếp **[AnTiCLICode-iOS12+.ipa](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode-iOS12+.ipa)** bằng Safari trên iPhone.
 2. Mở tệp bằng **TrollStore** (iOS 14.0–17.0) hoặc **Filza File Manager** (đã cài **AppSync Unified** trên iOS 12–16) → bấm **Cài đặt (Install)** là dùng vĩnh viễn!
 
 #### ⚡ Cách 3: Dùng ngay sau 30 giây KHÔNG cần máy tính (Safari PWA)
@@ -121,10 +121,10 @@ Tương thích hoàn hảo từ **iPhone 6 (iOS 12.5.7)** đến **iPhone 16 (iO
 
 | Tệp phát hành | Nền tảng | Phiên bản | Kích thước | Mã kiểm tra SHA-256 |
 | :--- | :---: | :---: | :---: | :--- |
-| [`AnTiCLICode.apk`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode.apk) | Android 7.0+ (ARM64) | `v4.2.0 (Build 22)` | `9.29 MB` | `F55CF35E5D3548C1CDEB2BCE8098FCFB894E25D59F4491B280CEB6B5EA95B435` |
-| [`AnTiCLICode-iOS12+.ipa`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/AnTiCLICode-iOS12+.ipa) | iOS 12.0+ (ARM64) | `v4.2.0 (Build 22)` | `16.98 MB` | `B7775C85AAC8AE15372F31E0C0379759EF71AC08E7ED97D5840A7E74031BA9B1` |
+| [`AnTiCLICode.apk`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode.apk) | Android 7.0+ (ARM64) | `v4.2.1 (Build 23)` | `9.31 MB` | `8B7A0D997B6518AFF74999FB9A57C743079EF8F2EA7E20EEB9A5112D2F3684C9` |
+| [`AnTiCLICode-iOS12+.ipa`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/AnTiCLICode-iOS12+.ipa) | iOS 12.0+ (ARM64) | `v4.2.1 (Build 23)` | `16.98 MB` | `B7775C85AAC8AE15372F31E0C0379759EF71AC08E7ED97D5840A7E74031BA9B1` |
 
-Tệp tổng hợp mã kiểm tra: [`SHA256SUMS.txt`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.0/SHA256SUMS.txt)
+Tệp tổng hợp mã kiểm tra: [`SHA256SUMS.txt`](https://github.com/sieudich/AnTiCLICode/releases/download/v4.2.1/SHA256SUMS.txt)
 
 ---
 
